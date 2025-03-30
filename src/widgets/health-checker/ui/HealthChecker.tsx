@@ -115,7 +115,7 @@ const HealthChecker = () => {
                 </div>
             </div>
 
-            <a target="__blank" href="https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage">How to use it?</a>
+            <a target="__blank" href="https://luckyresearch.notion.site/how-to-use-celestia-bridge-status-checker?pvs=73">How It Works</a>
         </section>
     );
 };
