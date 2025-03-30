@@ -8,28 +8,28 @@ import Header from "@/src/widgets/header/ui/Header";
 
 export const metadata: Metadata = {
   title: "Celestia Bridge Node Health Checker",
-  description: "DTEAM's Celestia Bridge Health Checker, the ultimate tool for ensuring the reliability and security of your Celestia bridge node. Designed with the community in mind, this checker allows you to easily verify the health of your bridge nodes. Simply enter your IP, port, and authentication token to get started.",
-  keywords: ["DTEAM", "Bridge Node Health Checker", "Celestia"],
-  metadataBase: new URL("https://celestia-bridge-checker.dteam.tech/"),
+  description: "LuckyResearch's Celestia Bridge Status Checker – a simple and efficient tool for monitoring the status of your Celestia bridge node. Enter your IP, port, and authentication token to get started!",
+  keywords: ["LuckyResearch Labs", "Bridge Node Status Checker", "Celestia"],
+  metadataBase: new URL("https://celestia-bridge-checker.luckyresearch.org"),
   openGraph: {
     title: "Celestia Bridge Node Health Checker",
-    description: "DTEAM's Celestia Bridge Health Checker, the ultimate tool for ensuring the reliability and security of your Celestia bridge node. Designed with the community in mind, this checker allows you to easily verify the health of your bridge nodes. Simply enter your IP, port, and authentication token to get started.",
-    url: "https://celestia-bridge-checker.dteam.tech/",
+    description: "LuckyResearch's Celestia Bridge Status Checker – a simple and efficient tool for monitoring the status of your Celestia bridge node. Enter your IP, port, and authentication token to get started!",
+    url: "https://celestia-bridge-checker.luckyresearch.org",
     type: "website",
     images: [
       {
         url: "https://raw.githubusercontent.com/DTEAMTECH/contributions/main/celestia/utils/celestia_bridge.png",
         width: 1200,
         height: 630,
-        alt: "DTEAM Celestia",
+        alt: "LuckyResearch Labs - Celestia",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@dteamtech",
-    title: "Celestia Bridge Node Health Checker",
-    description: "DTEAM's Celestia Bridge Health Checker, the ultimate tool for ensuring the reliability and security of your Celestia bridge node. Designed with the community in mind, this checker allows you to easily verify the health of your bridge nodes. Simply enter your IP, port, and authentication token to get started.",
+    site: "@LuckyResearchVN",
+    title: "Celestia Bridge Node Status Checker",
+    description: "LuckyResearch's Celestia Bridge Status Checker – a simple and efficient tool for monitoring the status of your Celestia bridge node. Enter your IP, port, and authentication token to get started!",
     images: "https://raw.githubusercontent.com/DTEAMTECH/contributions/main/celestia/utils/celestia_bridge.png",
   },
 };
